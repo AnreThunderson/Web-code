@@ -906,6 +906,22 @@
               </div>
             </div>
           </div>
+		
+		   <div class='team-container support-team-member'>
+            <div class='row'>
+              <div class='col-md-3'>
+                <img src="images/about/bryce-poehlitz.png" alt="Bryce Poehlitz" width='170px'>
+              </div>  
+              <div class='col-md-9'>
+                <h5>Bryce Poehlitz</h5>
+                <h5>Graphic Design Intern</h5>
+                <h5>Oregon, USA</h5>
+                <p>
+                  B.A. Design and Visual Communications - Western Oregon University
+                </p>
+              </div>
+            </div>
+          </div>
 
           <div class='team-container support-team-member'>
             <div class='row'> 
